@@ -1,4 +1,4 @@
-package JAVA;
+ package JAVA;
 
 import java.net.NoRouteToHostException;
 import java.util.ArrayList;
@@ -181,7 +181,7 @@ public class Hospital_Management_Project {
                         Doctor d2 = new Doctor("   Pankaj Arora   ", "   NeuroSerjen   ", 856234785);
                         Doctor d3 = new Doctor("   Mukesh Gairola  ", "  Physicion   ", 752321456);
                         Doctor d4 = new Doctor("   Rakesh Goyal   ", "   Orthopedic   ", 632451236);
-                        Doctor d5 = new Doctor(" Rajesh Hatwal", "   Brain   ", 789654123);
+                        Doctor d5 = new Doctor("   Rajesh Hatwal  ", "    Brain   ", 789654123);
                         Doctor d6 = new Doctor("   Avnesh Joshi  ", "   Gestroenterologist   ", 532145698);
 
                         Doctor[] Dr = { d1, d2, d3, d4, d5, d6 };
